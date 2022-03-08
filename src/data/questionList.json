@@ -1,0 +1,316 @@
+[
+    {
+        "questionDetail": {
+            "title": "The <bu>House<bu> is small",
+            "guessTitle": "Das<s>ist klein"
+        },
+        "options": [
+            {
+                "display": "folgen",
+                "val": 1
+            },
+            {
+                "display": "schaf",
+                "val": 2
+            },
+            {
+                "display": "Bereiden",
+                "val": 3
+            },
+            {
+                "display": "Hause",
+                "val": 4
+            }
+        ],
+        "answer": 4,
+        "categoryId": 1
+    },
+    {
+        "questionDetail": {
+            "title": "The <bu>Shop<bu> is beside my house",
+            "guessTitle": "Der <s> ist neben meinem Haus"
+        },
+        "options": [
+            {
+                "display": "folgen",
+                "val": 1
+            },
+            {
+                "display": "Laden",
+                "val": 2
+            },
+            {
+                "display": "Garten",
+                "val": 3
+            },
+            {
+                "display": "Hause",
+                "val": 4
+            }
+        ],
+        "answer": 2,
+        "categoryId": 1
+    },
+    {
+        "questionDetail": {
+            "title": "Railway <bu>station<bu> is nice",
+            "guessTitle": "<s> ist schön"
+        },
+        "options": [
+            {
+                "display": "Bahnhof",
+                "val": 1
+            },
+            {
+                "display": "Laden",
+                "val": 2
+            },
+            {
+                "display": "Revier",
+                "val": 3
+            },
+            {
+                "display": "Halt",
+                "val": 4
+            }
+        ],
+        "answer": 1,
+        "categoryId": 1
+    },
+    {
+        "questionDetail": {
+            "title": "My <bu>garden<bu> is small",
+            "guessTitle": "Mein <s> ist klein"
+        },
+        "options": [
+            {
+                "display": "Garten",
+                "val": 1
+            },
+            {
+                "display": "Nachrichten",
+                "val": 2
+            },
+            {
+                "display": "Nachric",
+                "val": 3
+            },
+            {
+                "display": "Halt",
+                "val": 4
+            }
+        ],
+        "answer": 1,
+        "categoryId": 1
+    },
+    {
+        "questionDetail": {
+            "title": "My friend in <bu>School<bu>",
+            "guessTitle": "Mein Freund in der <s>"
+        },
+        "options": [
+            {
+                "display": "Garten",
+                "val": 1
+            },
+            {
+                "display": "Schule",
+                "val": 2
+            },
+            {
+                "display": "Nachric",
+                "val": 3
+            },
+            {
+                "display": "Bild",
+                "val": 4
+            }
+        ],
+        "answer": 2,
+        "categoryId": 1
+    },
+    {
+        "questionDetail": {
+            "title": "My <bu>Shirt<bu> has pocket",
+            "guessTitle": "Mein <s> hat eine Tasche"
+        },
+        "options": [
+            {
+                "display": "Hemd",
+                "val": 1
+            },
+            {
+                "display": "Trikot",
+                "val": 2
+            },
+            {
+                "display": "Verschiebung",
+                "val": 3
+            },
+            {
+                "display": "Bild",
+                "val": 4
+            }
+        ],
+        "answer": 1,
+        "categoryId": 2
+    },
+    {
+        "questionDetail": {
+            "title": "My <bu>pent<bu> is new",
+            "guessTitle": "Mein <s> ist neu"
+        },
+        "options": [
+            {
+                "display": "Weg",
+                "val": 1
+            },
+            {
+                "display": "Seminar",
+                "val": 2
+            },
+            {
+                "display": "Stift",
+                "val": 3
+            },
+            {
+                "display": "Bild",
+                "val": 4
+            }
+        ],
+        "answer": 3,
+        "categoryId": 2
+    },
+    {
+        "questionDetail": {
+            "title": "I have <bu>toys<bu> at home",
+            "guessTitle": "Ich habe <s> zu Hause"
+        },
+        "options": [
+            {
+                "display": "Weki",
+                "val": 1
+            },
+            {
+                "display": "Spielzeuge",
+                "val": 2
+            },
+            {
+                "display": "newk",
+                "val": 3
+            },
+            {
+                "display": "helicop",
+                "val": 4
+            }
+        ],
+        "answer": 2,
+        "categoryId": 3
+    },
+    {
+        "questionDetail": {
+            "title": "Nice <bu>babydoll<bu>",
+            "guessTitle": "Schöne <s>"
+        },
+        "options": [
+            {
+                "display": "Babypuppe",
+                "val": 1
+            },
+            {
+                "display": "Schöne",
+                "val": 2
+            },
+            {
+                "display": "nKin",
+                "val": 3
+            },
+            {
+                "display": "Pinmk",
+                "val": 4
+            }
+        ],
+        "answer": 1,
+        "categoryId": 3
+    },
+
+    {
+        "questionDetail": {
+            "title": "The <bu>lion<bu> is brave",
+            "guessTitle": "Der <s> ist mutig"
+        },
+        "options": [
+            {
+                "display": "girrafe",
+                "val": 1
+            },
+            {
+                "display": "Löwe",
+                "val": 2
+            },
+            {
+                "display": "mutig",
+                "val": 3
+            },
+            {
+                "display": "Der",
+                "val": 4
+            }
+        ],
+        "answer": 2,
+        "categoryId": 4
+    },
+
+    {
+        "questionDetail": {
+            "title": "<bu>giraffe<bu> is tall",
+            "guessTitle": "<s> ist groß"
+        },
+        "options": [
+            {
+                "display": "Giraffe",
+                "val": 1
+            },
+            {
+                "display": "nuke",
+                "val": 2
+            },
+            {
+                "display": "groß",
+                "val": 3
+            },
+            {
+                "display": "kiom",
+                "val": 4
+            }
+        ],
+        "answer": 1,
+        "categoryId": 4
+    },
+    {
+        "questionDetail": {
+            "title": "This is my <bu>cycle<bu>",
+            "guessTitle": "Das ist mein <s>"
+        },
+        "options": [
+            {
+                "display": "folgen",
+                "val": 1
+            },
+            {
+                "display": "Zyklus",
+                "val": 2
+            },
+            {
+                "display": "rim",
+                "val": 3
+            },
+            {
+                "display": "circuit",
+                "val": 4
+            }
+        ],
+        "answer": 2,
+        "categoryId": 5
+    }
+]
